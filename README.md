@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello everybody! 👋
 
-<!--
-**mathiasg12/mathiasg12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Mathias :raising_hand:
 
-Here are some ideas to get you started:
+### about me :dog:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Located in Norway :earth_africa:
+- Currently studying frontend development at Noroff school of technology and digital media :mortar_board:
+- I’m currently learning web development :rocket:
+- Eager to learn :mag:
+
+### Tools :computer:
+
+<img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left"style="padding-left:15px" width="32px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left"style="padding-left:15px" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
