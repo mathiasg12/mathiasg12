@@ -19,4 +19,4 @@
 ##
 ##
 # Stats
-![Mathias GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiasg12&theme=highcontrast)
+<img src= "https://github-readme-stats.vercel.app/api?username=mathiasg12&theme=highcontrast"></img>
