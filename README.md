@@ -9,13 +9,11 @@
 - I’m currently learning web development :rocket:
 - Eager to learn :mag:
 ##
+# Stats
+<img src= "https://github-readme-stats.vercel.app/api?username=mathiasg12&theme=synthwave">
 ##
 # Tools :computer:
-<img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<div><img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></img>       
-##
-##
-# Stats
-<img src= "https://github-readme-stats.vercel.app/api?username=mathiasg12&theme=highcontrast">
+<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></img><div>       
