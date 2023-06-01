@@ -10,7 +10,7 @@
 - Eager to learn :mag:
 ##
 # Stats
-<img src= "https://github-readme-stats.vercel.app/api?username=mathiasg12&theme=synthwave">
+<img src= "https://github-readme-stats.vercel.app/api?username=mathiasg12&theme=synthwave"></img>
 ##
 # Tools :computer:
 <div><img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
