@@ -10,6 +10,7 @@
 - Eager to learn :mag:
 ### Contact information :iphone:
 * Gmail: mathiasgausl@gmail.com
+* Linkedin: https://www.linkedin.com/in/mathias-gausl%C3%A5-826702249
 ##
 # Stats :fireworks:
 <img src= "https://github-readme-stats.vercel.app/api?username=mathiasg12&theme=synthwave"></img>
