@@ -21,6 +21,7 @@
 ### Contact information :iphone:
 
 - Gmail: mathiasgausl@gmail.com
+- Linkedin: https://www.linkedin.com/in/mathias-gausl%C3%A5-826702249
 
 ##
 
