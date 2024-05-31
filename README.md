@@ -39,18 +39,13 @@ Currently seeking new opportunities in web development!
 
 # Tools :computer:
 
-<img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></img>   
-<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
-"></img>
-<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
-"></img>
-<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></img>
-<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg
-"></img>
-<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg
-"></img>
-<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg
-"></img>
+<img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
+<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
+<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass"/>
+<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify"/>
+<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/>
+<img align="left" width="32px" style="padding-left:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/>
